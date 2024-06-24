@@ -25,7 +25,7 @@ The data follows the new user - who installed and opened the game for the first 
 (image, text, diagram, logic, game mechanics,...)
 # III. Visualization
 ## 1. Overview
-![image](https://github.com/uyennguyen307/Game-LiveOps-Analyst/assets/162019618/c755871b-0c54-493a-b0d3-48fec7157ccb)
+![image](https://github.com/uyennguyen307/Game-LiveOps-Analyst/assets/162019618/a410f6c8-26a2-4551-af3d-b90e6e7e23bc)
 
 ## 2. Tutorial Impact
 ![image](https://github.com/uyennguyen307/Game-LiveOps-Analyst/assets/162019618/b2270a60-5dea-46a4-aff5-7e657d23983b)
