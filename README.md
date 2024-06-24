@@ -49,7 +49,7 @@ _**Reference the study of Washington University:**_ https://grail.cs.washington.
 **Question 3:**. Based on the data and your experience with the game, do you have any ideas to improve our User Experience? Explain it in detail
 (image, text, diagram, logic, game mechanics,...)
 
-- Improve Tutorial
+- Improve Tutorial more clearance
 - Hosting regular events that present unique challenges and reward opportunities. These events bring a sense of freshness and urgency, encouraging people to return to participate
 - Offer limited-time events that offer unique gameplay experiences and reward players with exclusive items. These events serve as an exciting diversion from the main game, injecting a dynamic that keeps them engaged..
 - Seasonal events and tournaments are powerful features, engaging ways to entice players to revisit the game. These events are designed around specific times of the year, holidays, or even global special days.
