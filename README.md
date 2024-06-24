@@ -52,3 +52,11 @@ _**Reference the study of Washington University:**_ https://grail.cs.washington.
 - Improve Tutorial
 - Hosting regular events that present unique challenges and reward opportunities. These events bring a sense of freshness and urgency, encouraging people to return to participate
 - Offer limited-time events that offer unique gameplay experiences and reward players with exclusive items. These events serve as an exciting diversion from the main game, injecting a dynamic that keeps them engaged..
+- Seasonal events and tournaments are powerful features, engaging ways to entice players to revisit the game. These events are designed around specific times of the year, holidays, or even global special days.
+  + Seasonal events appeal for their novelty, limited availability, and thematic content. 
+     These events provide unique challenges and exclusive rewards and feature a game 
+     interface makeover.
+  + Tournaments can boost player engagement with the competition. It involves     
+    leaderboards, offering a platform for players to showcase their skills, compete with 
+    others, and earn exclusive rewards. This competitive aspect can drive players to 
+    spend more, which leads to higher engagement and retention.
