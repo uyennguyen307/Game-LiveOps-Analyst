@@ -50,4 +50,5 @@ _**Reference the study of Washington University:**_ https://grail.cs.washington.
 (image, text, diagram, logic, game mechanics,...)
 
 - Improve Tutorial
-- Hosting regular events that present unique challenges and reward opportunities. These events bring a sense of freshness and urgency, encouraging people to return to participate.
+- Hosting regular events that present unique challenges and reward opportunities. These events bring a sense of freshness and urgency, encouraging people to return to participate
+- Offer limited-time events that offer unique gameplay experiences and reward players with exclusive items. These events serve as an exciting diversion from the main game, injecting a dynamic that keeps them engaged..
