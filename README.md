@@ -34,7 +34,7 @@ The data follows the new user - who installed and opened the game for the first 
 ![image](https://github.com/uyennguyen307/Game-LiveOps-Analyst/assets/162019618/3eb98630-f4d7-43d0-8184-d24484911ae6)
 
 # iV. Insight
-**Question 1: How can we know if the improvement of Tutorial in-game version 1.6.0 has impacted the User Experience better than in-game version 1.5.2?**
+## Question 1: How can we know if the improvement of Tutorial in-game version 1.6.0 has impacted the User Experience better than in-game version 1.5.2?
 
 We will know the improvement of Tutorial in-game version 1.6.0 has impacted the User Experience better than in-game version 1.5.2 based on the Retention Rate (key metrics) and other metrics that I will show below:
 
@@ -50,7 +50,7 @@ Overall, the number of unique users on Version 1.6.0 is more than on Ver 1.5.2 u
 
 **Key Finding: The improvement tutorial in-game version 1.6.0 still impacts user engagement but it contributed insignificantly at approximately 2% - 3%**
 
-**Question 2: Can we roll out 100% game version 1.6.0 to all users or not? Why? (Analyze and evaluate the 2 versions)**
+## Question 2: Can we roll out 100% game version 1.6.0 to all users or not? Why? (Analyze and evaluate the 2 versions)
 
 Based on the data & insight which I have provided, We should not roll out 100% because 
 - Tutorial Improvement of Version 1.6.0 has contributed 2% - 3% to User Engagement and Businesses have to pay the hidden cost (employee salaries,...) of releasing a new feature (the improvement of the tutorial)
@@ -58,13 +58,14 @@ Based on the data & insight which I have provided, We should not roll out 100% b
 
 _**Reference the study of Washington University:**_ https://grail.cs.washington.edu/wp-content/uploads/2015/08/andersen2012tio.pdf
 
-**Question 3:**. Based on the data and your experience with the game, do you have any ideas to improve our User Experience? Explain it in detail
-(image, text, diagram, logic, game mechanics,...)
+## Question 3: Based on the data and your experience with the game, do you have any ideas to improve our User Experience? Explain it in detail (image, text, diagram, logic, game mechanics,...)
 
-- Improve Tutorial more clearance before releasing version 1.6.0
+- Improve Tutorial more clearance before releasing version 1.6.0 by adding explanation text (number 1 in the picture) in each tutorial step and explaining the button (number 2 in the picture)
   
+  ![image](https://github.com/uyennguyen307/Game-LiveOps-Analyst/assets/162019618/5202c68e-cb42-4afa-a480-6e4db3c3ac00)
   
 - Hosting regular events that present unique challenges and reward opportunities. These events bring a sense of freshness and urgency, encouraging people to return to participate
+  
 - Offer limited-time events that offer unique gameplay experiences and reward players with exclusive items. These events serve as an exciting diversion from the main game, injecting a dynamic that keeps them engaged..
 - Seasonal events and tournaments are powerful features, engaging ways to entice players to revisit the game. These events are designed around specific times of the year, holidays, or even global special days.
   + Seasonal events appeal for their novelty, limited availability, and thematic content. These events provide unique challenges and exclusive rewards and feature a game interface makeover.
