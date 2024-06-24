@@ -67,14 +67,14 @@ There are some ways to increase User Engagement, we have to maintain & uplift Us
   
 2. Hosting regular events that present unique challenges and reward opportunities and daily challenges. These events bring a sense of freshness and urgency, encouraging people to return to participate
 
-  ![image](https://github.com/uyennguyen307/Game-LiveOps-Analyst/assets/162019618/a9581511-705d-45e5-9d89-1e2e5eedf2c9)
+   ![image](https://github.com/uyennguyen307/Game-LiveOps-Analyst/assets/162019618/a9581511-705d-45e5-9d89-1e2e5eedf2c9)
 
 3. Offer limited-time events that offer unique gameplay experiences and reward players with exclusive items. These events serve as an exciting diversion from the main game, injecting a dynamic that keeps them engaged.
 4. Seasonal events and tournaments are powerful features, engaging ways to entice players to revisit the game. These events are designed around specific times of the year, holidays, or even global special days.
   + Seasonal events appeal for their novelty, limited availability, and thematic content. These events provide unique challenges and exclusive rewards and feature a game interface makeover.
   + Tournaments can boost player engagement with the competition. It involves leaderboards, offering a platform for players to showcase their skills, compete with others, and earn exclusive rewards. This competitive aspect can drive players to spend more, which leads to higher engagement and retention.
 
-  ![image](https://github.com/uyennguyen307/Game-LiveOps-Analyst/assets/162019618/0395181b-57a2-48b7-a050-954309c6bc6a)
+   ![image](https://github.com/uyennguyen307/Game-LiveOps-Analyst/assets/162019618/0395181b-57a2-48b7-a050-954309c6bc6a)
 
 
 
