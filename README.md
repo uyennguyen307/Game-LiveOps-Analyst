@@ -1,5 +1,5 @@
 # Game-LiveOps-Analyst
-A Gaming LiveOps Testing analysis and measure the improvement of Tutorial in-game version 1.6.0 has impacted the User Experience better than in-game version 1.5.2 and made the decision to roll out 100% Version 1.6.0
+A Gaming LiveOps Testing analysis and measure the improvement of Tutorial in-game version 1.6.0 has impacted the User Experience better than in-game version 1.5.2 and decide to roll out 100% Version 1.6.0
 # I.Introduction
 ## 1. Background
 1. All users in Russia and using Android devices are playing the game with version 1.5.2.
@@ -30,7 +30,7 @@ The data follows the new user - who installed and opened the game for the first 
 ## 2. Tutorial Impact
 ![image](https://github.com/uyennguyen307/Game-LiveOps-Analyst/assets/162019618/b2270a60-5dea-46a4-aff5-7e657d23983b)
 
-## 3. Level churn with each tutorial steps
+## 3. Level churn with each tutorial step
 ![image](https://github.com/uyennguyen307/Game-LiveOps-Analyst/assets/162019618/3eb98630-f4d7-43d0-8184-d24484911ae6)
 
 # iV. Insight
@@ -59,14 +59,22 @@ Based on the data & insight which I have provided, We should not roll out 100% b
 _**Reference the study of Washington University:**_ https://grail.cs.washington.edu/wp-content/uploads/2015/08/andersen2012tio.pdf
 
 ## Question 3: Based on the data and your experience with the game, do you have any ideas to improve our User Experience? Explain it in detail (image, text, diagram, logic, game mechanics,...)
+There are some ways to increase User Engagement, we have to maintain & uplift User’s Retention Rate
 
-- Improve Tutorial more clearance before releasing version 1.6.0 by adding explanation text (number 1 in the picture) in each tutorial step and explaining the button (number 2 in the picture)
+1. Improve Tutorial more clearance before releasing version 1.6.0 by adding explanation text (number 1 in the picture) in each tutorial step and explaining the button (number 2 in the picture)
   
   ![image](https://github.com/uyennguyen307/Game-LiveOps-Analyst/assets/162019618/5202c68e-cb42-4afa-a480-6e4db3c3ac00)
   
-- Hosting regular events that present unique challenges and reward opportunities. These events bring a sense of freshness and urgency, encouraging people to return to participate
-  
-- Offer limited-time events that offer unique gameplay experiences and reward players with exclusive items. These events serve as an exciting diversion from the main game, injecting a dynamic that keeps them engaged..
-- Seasonal events and tournaments are powerful features, engaging ways to entice players to revisit the game. These events are designed around specific times of the year, holidays, or even global special days.
+2. Hosting regular events that present unique challenges and reward opportunities and daily challenges. These events bring a sense of freshness and urgency, encouraging people to return to participate
+
+  ![image](https://github.com/uyennguyen307/Game-LiveOps-Analyst/assets/162019618/a9581511-705d-45e5-9d89-1e2e5eedf2c9)
+
+3. Offer limited-time events that offer unique gameplay experiences and reward players with exclusive items. These events serve as an exciting diversion from the main game, injecting a dynamic that keeps them engaged.
+4. Seasonal events and tournaments are powerful features, engaging ways to entice players to revisit the game. These events are designed around specific times of the year, holidays, or even global special days.
   + Seasonal events appeal for their novelty, limited availability, and thematic content. These events provide unique challenges and exclusive rewards and feature a game interface makeover.
   + Tournaments can boost player engagement with the competition. It involves leaderboards, offering a platform for players to showcase their skills, compete with others, and earn exclusive rewards. This competitive aspect can drive players to spend more, which leads to higher engagement and retention.
+  ![image](https://github.com/uyennguyen307/Game-LiveOps-Analyst/assets/162019618/0395181b-57a2-48b7-a050-954309c6bc6a)
+
+
+
+
