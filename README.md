@@ -28,13 +28,16 @@ The data follows the new user - who installed and opened the game for the first 
 We will know the improvement of Tutorial in-game version 1.6.0 has impacted the User Experience better than in-game version 1.5.2 based on the Retention Rate (key metrics) and other metrics that I will show below:
 
 Overall, the number of unique users on Version 1.6.0 is more than on Ver 1.5.2 up to 3.8%. The number of session starts & user engagement on Version 1.6.0 are higher than on Version 1.5.2.at 17.3% and 17.8% respectively
+
 In testing 7 days, Version 1.6.0 performed better (Retention Rate by User and User Engagement) than Version 1.5.0. However, both version has the same downtrend 
+
 On version 1.5.2, there were up to 98.2% of users participated in the tutorial at level 1 but it's more than 6.51% of users churned at level 1. Meanwhile, version 1.6.0 has Up to 97.9% of users participate in the tutorial process at level 1 but there were 7.22% of users left at level 1 => Even though we have changed the tutorial (added more steps from 6 to 10) to help users, they still have a churn and the churn rate is even higher than before changing from Version 1.5.2
+
 The Completed Tutorial rate between the two versions (1.5.2 vs 1.6.0) is not much different at 98.2% and 97.9% respectively
 
 **Key Finding:** The improvement tutorial in-game version 1.6.0 still impacts user engagement but it contributed insignificantly at approximately 2% - 3%
 
-**Question 2:Can we roll out 100% game version 1.6.0 to all users or not? Why? (Analyze and evaluate the 2 versions)**
+**Question 2: Can we roll out 100% game version 1.6.0 to all users or not? Why? (Analyze and evaluate the 2 versions)**
 Based on the data & insight which I have provided, We should not roll out 100% because 
 Tutorial Improvement of Version 1.6.0 has contributed 2% - 3% to User Engagement and Businesses have to pay the hidden cost (employee salaries,...) of releasing a new feature (the improvement of the tutorial)
 Based on the study of Washington University, After testing the Tutorial on three games with varying complexity on over 45000 players, the Department of Computer Science & Engineering claims that “we found that tutorials had a surprisingly negligible effect on player engagement in the game, which are less complex and more similar to other games in their respective genres”
