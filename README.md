@@ -31,4 +31,15 @@ Overall, the number of unique users on Version 1.6.0 is more than on Ver 1.5.2 u
 In testing 7 days, Version 1.6.0 performed better (Retention Rate by User and User Engagement) than Version 1.5.0. However, both version has the same downtrend 
 
 
-**Key Finding:** The improvement tutorial in-game version 1.6.0 still impacts user engagement but it contributed insignificantly at approximatly 2% - 3%
+**Key Finding:** The improvement tutorial in-game version 1.6.0 still impacts user engagement but it contributed insignificantly at approximately 2% - 3%
+
+**Question 2:Can we roll out 100% game version 1.6.0 to all users or not? Why? (Analyze and evaluate the 2 versions)**
+Based on the data & insight which I have provided, We should not roll out 100% because 
+Tutorial Improvement of Version 1.6.0 has contributed 2% - 3% to User Engagement and Businesses have to pay the hidden cost (employee salaries,...) of releasing a new feature (the improvement of the tutorial)
+Based on the study of Washington University, After testing the Tutorial on three games with varying complexity on over 45000 players, the Department of Computer Science & Engineering claims that “we found that tutorials had a surprisingly negligible effect on player engagement in the game, which are less complex and more similar to other games in their respective genres”
+
+_**Reference the study of Washington University:**_ https://grail.cs.washington.edu/wp-content/uploads/2015/08/andersen2012tio.pdf
+
+**Question 3:**. Based on the data and your experience with the game, do you have any ideas to improve our User Experience? Explain it in detail
+(image, text, diagram, logic, game mechanics,...)
+- Improve Tutorial 
