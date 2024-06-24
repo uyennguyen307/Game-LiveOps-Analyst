@@ -29,7 +29,8 @@ We will know the improvement of Tutorial in-game version 1.6.0 has impacted the 
 
 Overall, the number of unique users on Version 1.6.0 is more than on Ver 1.5.2 up to 3.8%. The number of session starts & user engagement on Version 1.6.0 are higher than on Version 1.5.2.at 17.3% and 17.8% respectively
 In testing 7 days, Version 1.6.0 performed better (Retention Rate by User and User Engagement) than Version 1.5.0. However, both version has the same downtrend 
-On version 1.5.2, there were up to 98.2% of users participated in the tutorial at level 1 but it's more than 6.51% of users churned at level 1. Meanwhile, version 1.6.0 has Up to 97.9% of users participate in the tutorial process at level 1 but there were 7.22% of users left at level 1 => even though we have changed the tutorial (added more steps from 6 to 10) to help users, they still have a churn and the churn rate is even higher than before changing from Version 1.5.2
+On version 1.5.2, there were up to 98.2% of users participated in the tutorial at level 1 but it's more than 6.51% of users churned at level 1. Meanwhile, version 1.6.0 has Up to 97.9% of users participate in the tutorial process at level 1 but there were 7.22% of users left at level 1 => Even though we have changed the tutorial (added more steps from 6 to 10) to help users, they still have a churn and the churn rate is even higher than before changing from Version 1.5.2
+The Completed Tutorial rate between the two versions (1.5.2 vs 1.6.0) is not much different at 98.2% and 97.9% respectively
 
 **Key Finding:** The improvement tutorial in-game version 1.6.0 still impacts user engagement but it contributed insignificantly at approximately 2% - 3%
 
