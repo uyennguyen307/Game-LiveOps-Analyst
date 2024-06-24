@@ -22,6 +22,7 @@ The data follows the new user - who installed and opened the game for the first 
 - **Question 3**. Based on the data and your experience with the game, do you have any ideas to improve our User Experience? Explain it in detail
 (image, text, diagram, logic, game mechanics,...)
 # III. Visualization
+![image](https://github.com/uyennguyen307/Game-LiveOps-Analyst/assets/162019618/c755871b-0c54-493a-b0d3-48fec7157ccb)
 
 # iV. Insight
 **Question 1: How can we know if the improvement of Tutorial in-game version 1.6.0 has impacted the User Experience better than in-game version 1.5.2?**
