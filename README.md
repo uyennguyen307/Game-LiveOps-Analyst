@@ -25,6 +25,7 @@ The data follows the new user - who installed and opened the game for the first 
 
 # iV. Insight
 **Question 1: How can we know if the improvement of Tutorial in-game version 1.6.0 has impacted the User Experience better than in-game version 1.5.2?**
+
 We will know the improvement of Tutorial in-game version 1.6.0 has impacted the User Experience better than in-game version 1.5.2 based on the Retention Rate (key metrics) and other metrics that I will show below:
 
 Overall, the number of unique users on Version 1.6.0 is more than on Ver 1.5.2 up to 3.8%. The number of session starts & user engagement on Version 1.6.0 are higher than on Version 1.5.2.at 17.3% and 17.8% respectively
@@ -38,6 +39,7 @@ The Completed Tutorial rate between the two versions (1.5.2 vs 1.6.0) is not muc
 **Key Finding:** The improvement tutorial in-game version 1.6.0 still impacts user engagement but it contributed insignificantly at approximately 2% - 3%
 
 **Question 2: Can we roll out 100% game version 1.6.0 to all users or not? Why? (Analyze and evaluate the 2 versions)**
+
 Based on the data & insight which I have provided, We should not roll out 100% because 
 Tutorial Improvement of Version 1.6.0 has contributed 2% - 3% to User Engagement and Businesses have to pay the hidden cost (employee salaries,...) of releasing a new feature (the improvement of the tutorial)
 Based on the study of Washington University, After testing the Tutorial on three games with varying complexity on over 45000 players, the Department of Computer Science & Engineering claims that “we found that tutorials had a surprisingly negligible effect on player engagement in the game, which are less complex and more similar to other games in their respective genres”
@@ -46,4 +48,6 @@ _**Reference the study of Washington University:**_ https://grail.cs.washington.
 
 **Question 3:**. Based on the data and your experience with the game, do you have any ideas to improve our User Experience? Explain it in detail
 (image, text, diagram, logic, game mechanics,...)
-- Improve Tutorial 
+
+- Improve Tutorial
+- Hosting regular events that present unique challenges and reward opportunities. These events bring a sense of freshness and urgency, encouraging people to return to participate.
