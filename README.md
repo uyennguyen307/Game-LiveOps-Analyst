@@ -33,6 +33,10 @@ The data follows the new user - who installed and opened the game for the first 
 ## 3. Level churn with each tutorial step
 ![image](https://github.com/uyennguyen307/Game-LiveOps-Analyst/assets/162019618/3eb98630-f4d7-43d0-8184-d24484911ae6)
 
+## Bonus. Cohort Analyst by Python
+**Version 1.5.2:** https://colab.research.google.com/drive/1VSW_kEly0IUNe1BSDAbcHdP87XOkNAfJ#scrollTo=JIunxP4_UqUK
+
+**Version 1.6.0:** https://colab.research.google.com/drive/1Ug0_ibgp9XSbR8czSITYEFLkkcsPL1N1#scrollTo=TUYTT9_WQFh0
 # iV. Insight
 ## Question 1: How can we know if the improvement of Tutorial in-game version 1.6.0 has impacted the User Experience better than in-game version 1.5.2?
 
